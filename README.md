@@ -2,7 +2,7 @@
 
 Capitals is a simple geography game for the iPhone written in Objective-C (of course!). Its completely open source and I wrote it as a learning experience.
 
-### The Math (and the Problems)
+### The Math (and the Problem)
 
 Capitals uses a list of 250 countries and is a true or false game. So, the chance of the answer being "false" is 249/250. The chance of it being "true" is 1/250. What does this mean? 
 
