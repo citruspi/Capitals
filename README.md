@@ -1,12 +1,12 @@
 ### Capitals
 
-Capitals is a simple geography game for the iPhone written in Objective-C (of course!). Its completely open source and I wrote it as a learning experience.
+Capitals is a simple geography game for the iPhone written in `Objective-C` (of course!). Its completely open source and I wrote it as a learning experience.
 
 ### The Math (and the Problem)
 
-Capitals uses a list of 250 countries and is a true or false game. So, the chance of the answer being "false" is 249/250. The chance of it being "true" is 1/250. What does this mean? 
+Capitals uses a list of 250 countries and is a true or false game. So, the chance of the answer being `False` is `249/250` &rarr; the chance of it being `True` is `(250-249)/250 = 1/250`. This means that its much faster to keep pressing the false button than it is to actually think whether the country and capitals are a match. As I said, I just wrote it as a learning experience.
 
-Its much faster to keep pressing the false button than it is to actually think whether the country and capitals are a match. As I said, I just wrote it as a learning experience.
+It will not provide a significant challenge.
 
 ### Screen Shot
 ![Screenshot](http://i.imgur.com/fO55Q.png)
