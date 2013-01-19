@@ -1,4 +1,6 @@
-### Capitals
+## Capitals, A (Too) Easy Geography Game
+
+### Introduction
 
 Capitals is a simple geography game for the iPhone written in `Objective-C` (of course!). Its completely open source and I wrote it as a learning experience.
 
